@@ -1,5 +1,5 @@
 pickle
-streamlit as st
+streamlit
 requests
 pandas
 time
